@@ -10,7 +10,6 @@ export default (configEnv: ConfigEnv) => {
     console.info(configEnv);
     console.table(env);
     return {
-        base: env.VITE_BASE_URL,
         plugins: [
             visualizer({
                 open: false,
