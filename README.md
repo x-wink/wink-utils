@@ -25,21 +25,15 @@ npm run dev
 -   [Husky](https://typicode.github.io/husky) 改善你的提交
 -   [CommitLint](https://github.com/conventional-changelog/commitlint#readme) 检查代码提交消息
 
-## 👤 Author
+## 👤 作者
 
 **向文可**
 
--   Email: 13202090601@163.com
+-   Email: 1041367524@qq.com
 -   Github: [@x-wink](https://github.com/x-wink)
 
-## 🤝 Contributing
+## 🤝 贡献
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/x-wink/libary-template/issues).
+欢迎提交代码、提出问题和功能建议<br /> [反馈地址](https://github.com/x-wink/libary-template/issues)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+如果这个项目对你有帮助的话就点个小星星吧 ⭐️
