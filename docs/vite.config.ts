@@ -1,5 +1,6 @@
 import Vue from '@vitejs/plugin-vue';
-import { ConfigEnv, UserConfig, loadEnv } from 'vite';
+import type { ConfigEnv, UserConfig } from 'vite';
+import { loadEnv } from 'vite';
 import { resolve } from 'path';
 const resolvePath = (str: string) => resolve(process.cwd(), str);
 export default (configEnv: ConfigEnv) => {
