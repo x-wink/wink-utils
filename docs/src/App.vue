@@ -1,10 +1,12 @@
 <template>
-    {{ lib }}
+    <ul>
+        <li v-for="(item, index) in lib" :key="index">{{ item }}</li>
+    </ul>
 </template>
 
 <script setup lang="ts">
-    import { useMyLibary } from '../../src/index';
-    const lib = useMyLibary();
+    import * as utils from '../../src/index';
+    const lib = Object.keys(utils);
 </script>
 
 <style scoped lang="less"></style>
